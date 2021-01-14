@@ -1,0 +1,35 @@
+{
+  "menu": [
+    
+    {
+      "url": "",
+      "navheader": "Registros",
+      "icon": ""
+    },
+    {
+      "url": "registro-vendedor",
+      "name": "Vendedor",
+      "icon": "feather icon-mail",
+      "i18n": "nav.app_email"
+    },
+    {
+      "url": "registro-vendedor-create",
+      "name": "Nuevo Vendedor",
+      "icon": "feather icon-mail",
+      "i18n": "nav.app_email"
+    },
+    {
+      "url": "registro-contacto",
+      "name": "Contacto",
+      "icon": "feather icon-mail",
+      "i18n": "nav.app_email"
+    },
+    {
+      "url": "registro-contacto-create",
+      "name": "Nuevo Contacto",
+      "icon": "feather icon-mail",
+      "i18n": "nav.app_email"
+    }
+    
+  ]
+}
